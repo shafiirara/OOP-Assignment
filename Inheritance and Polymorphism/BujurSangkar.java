@@ -7,17 +7,14 @@ public class BujurSangkar extends Bentuk {
         this.sisi = sisi;
     }
 
-    // Method Getter
     public double getSisi() {
         return sisi;
     }
 
-    // Method Setter
     public void setSisi(double sisi) {
         this.sisi = sisi;
     }
 
-    // Method untuk menghitung luas bujur sangkar
     public double hitungLuas() {
         return sisi * sisi;
     }
