@@ -4,7 +4,7 @@ This directory contains Java programs demonstrating Inheritance and Method Overr
 
 ## Code Structure
 
-- **Bentuk.java**: Base class containing common attributes (`warna`).
+- [`Bentuk.java`](./Bentuk.java) : Base class containing common attributes (`warna`).
 - **BujurSangkar.java**: Subclass representing a square (calculates area).
 - **Lingkaran.java**: Subclass representing a circle (calculates area).
 - **Silinder.java**: Subclass representing a cylinder (inherits from Lingkaran, calculates volume).
