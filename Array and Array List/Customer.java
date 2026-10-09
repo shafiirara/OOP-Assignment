@@ -3,9 +3,8 @@ import java.util.ArrayList;
 public class Customer {
     private String firstName;
     private String lastName;
-    private ArrayList<Account> accounts; // Menggunakan ArrayList<Account>
+    private ArrayList<Account> accounts; 
 
-    // Constructor
     public Customer(String f, String l) {
         this.firstName = f;
         this.lastName = l;
