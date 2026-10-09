@@ -1,12 +1,10 @@
 public class Account {
     protected double balance;
 
-    // Constructor
     public Account(double init_balance) {
         this.balance = init_balance;
     }
 
-    // Accessor / Getter
     public double getBalance() {
         return balance;
     }
