@@ -1,6 +1,5 @@
 public class Lingkaran extends Bentuk {
-    // Atribut private untuk jari-jari
-    private double r;
+    private double r; // jari ajri
 
     // Constructor (memanggil constructor 'Bentuk')
     public Lingkaran(double r, String warna) {
@@ -8,7 +7,6 @@ public class Lingkaran extends Bentuk {
         this.r = r;
     }
 
-    // Getter & Setter
     public double getR() {
         return r;
     }
@@ -17,7 +15,6 @@ public class Lingkaran extends Bentuk {
         this.r = r;
     }
 
-    // Method hitung luas lingkaran
     public double hitungLuas() {
         return Math.PI * r * r;
     }
