@@ -1,5 +1,4 @@
 public class Silinder extends Lingkaran {
-    // Atribut private untuk tinggi
     private double tinggi;
 
     // Constructor (memanggil constructor 'Lingkaran')
@@ -8,7 +7,6 @@ public class Silinder extends Lingkaran {
         this.tinggi = tinggi;
     }
 
-    // Getter & Setter
     public double getTinggi() {
         return tinggi;
     }
@@ -19,7 +17,7 @@ public class Silinder extends Lingkaran {
 
     // Method hitung volume silinder (Luas Alas * Tinggi)
     public double hitungVolume() {
-        return hitungLuas() * tinggi; // hitungLuas() diwarisi dari class Lingkaran
+        return hitungLuas() * tinggi; 
     }
 
     // Overriding printInfo
