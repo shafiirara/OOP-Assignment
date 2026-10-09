@@ -1,6 +1,6 @@
 # Inheritance and Polymorphism
 
-This directory contains Java programs demonstrating Inheritance and Method Overriding concepts using geometric shapes.
+This directory contains Java programs that demonstrate Object Oriented Programming (OOP) concepts, specifically Inheritance and Method Overriding. The project models a class hierarchy of geometric shapes where subclasses extend parent classes to inherit attributes and override methods for specific calculations.
 
 ## Code Structure
 
