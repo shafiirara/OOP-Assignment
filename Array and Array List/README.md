@@ -5,6 +5,6 @@ This directory contains Java programs that demonstrate Object-Oriented Programmi
 ## Code Structure
 
 - [`Account.java`](./Account.java) : Represents a bank account with basic transactions such as deposit and withdrawal.
-- [`Customer.java`](./Customer.java) : Represents a bank customer that stores personal details and holds multiple `Account` objects using an `ArrayList`.
+- [`Customer.java`](./Customer.java) : Represents a bank customer that stores personal details and holds multiple account objects using an `ArrayList`.
 - [`Bank.java`](./Bank.java) : Represents the bank system that manages a list of `Customer` objects using an `ArrayList`.
 - [`Main.java`](./Main.java) : Main class to run and test bank operations, customer creation, account setup, deposits, and withdrawals.
