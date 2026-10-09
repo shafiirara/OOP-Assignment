@@ -1,9 +1,8 @@
 import java.util.ArrayList;
 
 public class Bank {
-    private ArrayList<Customer> customers; // Menggunakan ArrayList<Customer>
+    private ArrayList<Customer> customers;
 
-    // Constructor
     public Bank() {
         this.customers = new ArrayList<>();
     }
