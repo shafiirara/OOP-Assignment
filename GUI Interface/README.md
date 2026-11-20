@@ -27,3 +27,5 @@ Aplikasi desktop sederhana berbasis **Java Swing** untuk mencatat dan menampilka
   - **Event Listener**: `ActionListener`, `WindowAdapter`[cite: 1]
 
 ---
+## Screenshoot Tampilan
+<img width="1279" height="664" alt="image" src="https://github.com/user-attachments/assets/67e0ea68-bae7-4cbc-81b3-541e8dffbed0" />
