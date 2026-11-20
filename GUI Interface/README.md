@@ -4,7 +4,7 @@ Aplikasi desktop sederhana berbasis **Java Swing** untuk mencatat dan menampilka
 
 ---
 
-## ✨ Fitur Utama
+## Fitur Utama
 
 - **Input Data Mahasiswa**: Memasukkan **NIM**, **Nama**, dan memilih **Program Studi** (*Teknik Informatika*, *Sistem Informasi*, *Teknik Komputer*, *Ilmu Komputer*)[cite: 1].
 - **Validasi Input**: Menampilkan dialog peringatan (`JOptionPane`) apabila kolom NIM atau Nama dibiarkan kosong saat tombol **Simpan** ditekan[cite: 1].
@@ -16,7 +16,7 @@ Aplikasi desktop sederhana berbasis **Java Swing** untuk mencatat dan menampilka
 
 ---
 
-## 🛠️ Teknologi & Komponen yang Digunakan
+## Teknologi & Komponen yang Digunakan
 
 - **Bahasa Pemrograman**: Java (JDK 8 atau versi lebih baru)
 - **Library GUI**: `javax.swing` & `java.awt`[cite: 1]
